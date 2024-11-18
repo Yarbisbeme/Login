@@ -90,7 +90,7 @@
     .volver:hover {
         background-color: var(--accent-color);
         color: var(--white);     
-        padding:15px;
+        padding:16px;
         font-weight: bold;
     }
 
