@@ -22,8 +22,8 @@
   }
   
   .register-container {
-    width: 350px; /* Ajuste de ancho */
-    padding: 20px 15px; /* Reducir padding para minimizar el largo */
+    width: 400px; /* Ajuste de ancho */
+    padding: 25px 20px; /* Reducir padding para minimizar el largo */
     background: var(--white);
     border-radius: 10px;
     box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
